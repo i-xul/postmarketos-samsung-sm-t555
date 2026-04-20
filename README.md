@@ -10,6 +10,23 @@ The goal of this project was to get a Linux-based operating system running on an
 
 The device now runs postmarketOS with XFCE4 and is booting successfully.
 
+## Screenshots
+
+### XFCE Desktop Environment
+
+![XFCE Desktop](images/xfce-desktop.jpg)
+
+### System Information (neofetch)
+
+![Neofetch](images/neofetch.jpg)
+
+Example system output:
+
+OS: postmarketOS edge aarch64
+Host: Samsung Galaxy Tab A 9.7 (2015)
+Kernel: 6.12.1-msm8916
+DE: XFCE 4.20
+
 ## Device
 
 - **Model:** Samsung Galaxy Tab A 9.7 LTE
