@@ -76,6 +76,7 @@ The system now runs XFCE4 and serves as a practical example of repurposing older
 - success depends heavily on device-specific boot methods and compatibility
 - documenting the process early would have made later reconstruction easier
 - even when the full install path is not preserved, the project still has value if the final state and technical observations are documented clearly
+- ARM/Linux projects on older consumer devices require patience, iterative testing, and willingness to work through incomplete documentation
 
 ## Future improvements
 
